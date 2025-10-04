@@ -1,0 +1,11 @@
+{
+  "name": "stt-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
